@@ -10,5 +10,6 @@ Tech used: HTML/CSS/Boostrap/JavaScript/PHP/MySQL
    •	Implemented user validation on various pages (Javascript)
 
 Desktop preview:
-<img src="C:\Users\Rushikesh jadhav\OneDrive\Pictures\Deskpreview.png">
+![Deskpreview](https://github.com/Flayingharshhh/Trendyfashion/assets/138389903/f1ce51f8-3166-4cd5-9809-50d81e812911)
+
                              

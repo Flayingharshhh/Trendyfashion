@@ -12,4 +12,8 @@ Tech used: HTML/CSS/Boostrap/JavaScript/PHP/MySQL
 Desktop preview:
 ![Deskpreview](https://github.com/Flayingharshhh/Trendyfashion/assets/138389903/f1ce51f8-3166-4cd5-9809-50d81e812911)
 
+Mobile preview:
+https://github.com/Flayingharshhh/Trendyfashion/assets/138389903/d73dc548-92b9-41ce-9b24-ceb2b3694853
+
+
                              

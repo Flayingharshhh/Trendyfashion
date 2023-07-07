@@ -1,4 +1,4 @@
-# Trendyfashion
+# Trendy fashion
 
 Trendy Fashion is a fully online and modern fashion store concept. This website was inspired by the recent social distancing circumstances and the move to online platforms. 
 

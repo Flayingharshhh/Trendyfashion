@@ -2,7 +2,7 @@
 
 $hostname     = "localhost"; // enter your hostname
 $username     = "root";  // enter your table username
-$password     = "";   // enter your password
+$password     = "H@R$!%^*&*";   // enter your password
 $databasename = "codingstatus";  // enter your database
 // Create connection 
 $conn = new mysqli($hostname, $username, $password,$databasename);
